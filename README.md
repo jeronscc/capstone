@@ -1,1 +1,1 @@
-# capstone
+# Resident Management Information System
